@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Omkar</h1>
+<h1 align="center">Hi 👋, I 'm Omkar Mathad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
