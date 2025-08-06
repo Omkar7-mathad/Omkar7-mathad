@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I 'm Omkar Mathad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar7-mathad&label=Profile%20views&color=0e75b6&style=flat" alt="omkar7-mathad" /> </p>
