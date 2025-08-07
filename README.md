@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0A66C2&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Mathad" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0A66C2&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Mathad" alt="Typing SVG" />
+</div>
+
 
 <h3 align="center">A passionate frontend Developer </h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
