@@ -62,5 +62,3 @@
 
 ---
 
-<!-- Wave Footer -->
-<img src="https://raw.githubusercontent.com/omkar7-mathad/omkar7-mathad/main/assets/wave.svg" alt="Wave footer" />
