@@ -53,17 +53,7 @@
 
 ---
 
-### 🧩 LeetCode Stats & Streaks
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mr_omkar_086?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
-</p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/omkar7-mathad/omkar7-mathad/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
