@@ -1,23 +1,24 @@
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Mathad;Frontend+Developer+%26+Learner;Building+Full+Stack+Skills;DSA+%7C+C%2B%2B+%7C+Java+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Mathad;Frontend+Developer+%26+Learner;Full+Stack+Enthusiast;DSA+in+C%2B%2B+%7C+Java+%7C+Python" alt="Typing SVG" />
 </p>
 
-<!-- About -->
-<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
-
+<!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkar7-mathad&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />  
-  <img src="https://img.shields.io/github/followers/omkar7-mathad?logo=github&style=flat" alt="GitHub followers" />  
+  <img src="https://komarev.com/ghpvc/?username=omkar7-mathad&label=Profile%20views&color=1E90FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/omkar7-mathad?logo=github&style=flat&color=yellow" />
+  <img src="https://img.shields.io/badge/Code%20Everyday-%F0%9F%92%BB-blue?style=flat" />
 </p>
 
-<!-- Coding GIF -->
+---
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
 
 ### 🌱 Currently Learning
-- **Full Stack Development (MERN & Java)**
-- **Data Structures & Algorithms in C++**
-- **Problem Solving on LeetCode**
+- MERN Stack Development
+- Java Full Stack
+- Data Structures & Algorithms in C++
+- LeetCode Problem Solving
 
 ---
 
@@ -32,7 +33,7 @@
 
 ### 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,java,python,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,java,python,react,nodejs,git,github,vscode,bootstrap" />
 </p>
 
 ---
@@ -45,7 +46,31 @@
 
 ---
 
-### ⚡ Fun Fact
-💡 *"Code is like humor. When you have to explain it, it’s bad."*
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omkar7-mathad&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
+
+### 🧩 LeetCode Stats & Streaks
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mr_omkar_086?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/omkar7-mathad/omkar7-mathad/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 💬 Quote of the Day
+> "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+<!-- Wave Footer -->
+<img src="https://raw.githubusercontent.com/omkar7-mathad/omkar7-mathad/main/assets/wave.svg" alt="Wave footer" />
