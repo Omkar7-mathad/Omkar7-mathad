@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
 
 ### 🌱 Currently Learning
-- MERN Stack Development
+
 - Java Full Stack
 - Data Structures & Algorithms in C++
 - LeetCode Problem Solving
@@ -58,7 +58,7 @@
 ---
 
 ### 💬 Quote of the Day
-> "Any fool can write code that a computer can understand."
+> "Code is like humor. When you have to explain it, it’s bad."
 
 ---
 
