@@ -48,8 +48,9 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omkar7-mathad&theme=tokyonight&fire=DD2727&ring=FF8C00&currStreakLabel=FFEA00&sideLabels=FFEA00&currStreakNum=FFEA00&dates=00FF00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omkar7-mathad&theme=tokyonight&fire=DD2727&ring=FF8C00&currStreakLabel=FFEA00&sideLabels=FFEA00&currStreakNum=FFEA00&dates=00FF00" alt="GitHub Streak" />
 </p>
+
 
 ---
 
