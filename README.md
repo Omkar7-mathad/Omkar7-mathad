@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Code%20Everyday-%F0%9F%92%BB-blue?style=flat" />
 </p>
 
----
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
 
