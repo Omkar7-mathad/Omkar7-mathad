@@ -15,9 +15,9 @@
 
 ### 🌱 Currently Learning
 
-- Java Full Stack
 - Data Structures & Algorithms in C++
-- LeetCode Problem Solving
+- Always learning & Exploring
+  
 
 ---
 
