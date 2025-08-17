@@ -59,7 +59,7 @@
 ---
 
 ### 💬 Quote of the Day
-> "Debugging is like being the detective in a crime movie where you are also the murderer." – Filipe Fortes
+> "The expert in anything was once a beginner"
 
 
 ---
