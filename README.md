@@ -53,6 +53,11 @@
 
 
 ---
+### 🧩 LeetCode Stats & Streaks
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mr_omkar_086?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 
 
 
