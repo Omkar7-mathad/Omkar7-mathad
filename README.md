@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
 
-# About Me 🙋‍♂️
+# About Me 🙋🏻‍♂️
 
 Hi, I'm **Omkar Mathad**!  
 💻 Passionate about coding, problem-solving, and building real-world projects.  
