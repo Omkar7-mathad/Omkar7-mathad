@@ -13,10 +13,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
 
-### 🌱 Currently Learning
+# About Me 👋
 
-- Data Structures & Algorithms in C++
-- Always learning & Exploring
+Hi, I'm **Omkar**!  
+💻 Passionate about coding, problem-solving, and building real-world projects.  
+🚀 Currently learning **DSA with c++ , AI/ML**  
+📚 2nd-year student, from **Malnad College of Engineering**.  
+🌱 "Dream big, stay curious, keep building."
+
   
 
 ---
