@@ -65,7 +65,7 @@ Hi, I'm **Omkar Mathad**!
 ---
 
 ### 💬 Quote of the Day
-> "Small daily improvements over time lead to stunning results." 🌱✨
+> "Keep learning and Exploring." 🌱✨
 
 
 ---
