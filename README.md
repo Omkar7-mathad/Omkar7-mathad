@@ -65,7 +65,7 @@ Hi, I'm **Omkar Mathad**!
 ---
 
 ### 💬 Quote of the Day
-> "Keep learning and Exploring." 🌱✨
+> "keep learning and exploring" 🌱✨
 
 
 ---
