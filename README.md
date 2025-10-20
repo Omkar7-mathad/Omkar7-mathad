@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Mathad;Fullstack+Developer+%26+Learner;Full+Stack+Enthusiast;DSA+in+C%2B%2B+%7C+Java+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Mathad;Fullstack+Developer+%26+Learner;Currently learning AI Tools;DSA+in+C%2B%2B+%7C+Java+%7C+Python" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Followers -->
