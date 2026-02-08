@@ -17,7 +17,7 @@
 
 Hi, I'm **Omkar Mathad**!  
 💻 Passionate about coding, problem-solving, and building real-world projects.  
-🚀 Currently learning **DSA with C++ , AI/ML**  
+🚀 Currently learning **OOPS WITH JAVA , AI/ML**  
 📚 2nd-year student, from **Malnad College of Engineering**.  
 🌱 "Dream big, stay curious, keep building."
 
