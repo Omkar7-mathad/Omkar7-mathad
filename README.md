@@ -20,13 +20,11 @@ Hi, I'm **Omkar Mathad**!
 🚀 Currently learning **OOPS WITH JAVA , AI/ML**  
 📚 2nd-year student, from **Malnad College of Engineering**.  
 🌱 "Dream big, stay curious, keep building."
+
 ---
 <a href="https://omkarmathadportfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
-
-
-  
 
 ---
 
