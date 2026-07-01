@@ -20,6 +20,11 @@ Hi, I'm **Omkar Mathad**!
 🚀 Currently learning **OOPS WITH JAVA , AI/ML**  
 📚 2nd-year student, from **Malnad College of Engineering**.  
 🌱 "Dream big, stay curious, keep building."
+---
+<a href="https://omkarmathadportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+
 
   
 
@@ -29,10 +34,7 @@ Hi, I'm **Omkar Mathad**!
 <p>
   <a href="https://linkedin.com/in/omkar-mathad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/OmkarM086" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
- <a href="https://omkarmathadportfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-</a>
-
+ 
 ### 🛠 Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,cpp,java,python,react,nodejs,git,github,vscode,bootstrap" />
