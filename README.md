@@ -29,9 +29,9 @@ Hi, I'm **Omkar Mathad**!
 <p>
   <a href="https://linkedin.com/in/omkar-mathad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/OmkarM086" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.vercel.app" target="_blank" class="social-btn">PORTFOLIO </a>
-</p>
-
+ <a href="https://omkarmathadportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 ---
 
 ### 🛠 Languages & Tools
