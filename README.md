@@ -27,29 +27,13 @@ Hi, I'm **Omkar Mathad**!
 </a>
 
 ---
-
-### 🤝 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/omkar-mathad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/OmkarM086" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  
----
  
 ### 🛠 Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,cpp,java,python,react,nodejs,git,github,vscode,bootstrap" />
 </p>
 
-
-
 ---
-### 🧩 LeetCode Stats & Streaks
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/OmkarMathad?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar7-mathad&show_icons=true&theme=tokyonight" height="180em"/>
@@ -57,20 +41,23 @@ Hi, I'm **Omkar Mathad**!
 </p>
 
 ---
-
-
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=omkar7-mathad&theme=tokyonight&fire=DD2727&ring=FF8C00&currStreakLabel=FFEA00&sideLabels=FFEA00&currStreakNum=FFEA00&dates=00FF00" alt="GitHub Streak" />
 </p>
 
+---
+### 🧩 My LeetCode Streaks
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/OmkarMathad?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
-
-
-
-
-
+### 🤝 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/omkar-mathad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/OmkarM086" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  
 ---
 
 ### 💬 Quote of the Day
