@@ -41,6 +41,12 @@ Hi, I'm **Omkar Mathad**!
 
 
 ---
+### 🧩 LeetCode Stats & Streaks
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/OmkarMathad?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
