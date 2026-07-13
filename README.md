@@ -28,10 +28,141 @@ Hi, I'm **Omkar Mathad**!
 
 ---
  
-### 🛠 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,java,python,react,nodejs,git,github,vscode,bootstrap" />
-</p>
+# 💻 Tech Stack
+
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+<br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/>
+<br>C++
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="RESTful APIs"/>
+<br>REST API
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/>
+<br>Java
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/>
+<br>FastAPI
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+<br>C
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/>
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git"/>
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
+<br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
+<br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/>
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
+<br>Bootstrap
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery"/>
+<br>jQuery
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+<br>Express
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+<br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+<br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+<br>Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+<br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
+<br>Jupyter
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 ### 📊 GitHub Stats
