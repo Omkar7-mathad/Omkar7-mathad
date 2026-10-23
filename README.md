@@ -22,7 +22,7 @@ Hi, I'm **Omkar Mathad**!
 🌱 "Dream big, stay curious, keep building."
 
 ---
-<a href="https://omkarmathadportfolio.vercel.app/" target="_blank">
+<a href="[https://omkarmathadportfolio.vercel.app/](https://omkar-mathad-portfolio.vercel.app)" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 
